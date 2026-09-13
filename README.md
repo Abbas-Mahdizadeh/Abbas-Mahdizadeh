@@ -4,13 +4,9 @@
 
 <br><br>
 
-<div>
-  <font size="9"><b>Abbas Mahdizadeh</b></font>
-</div>
+<h1>Abbas Mahdizadeh</h1>
 
-<div>
-  <font size="6"><b>Frontend Developer</b></font>
-</div>
+<h3>Frontend Developer</h3>
 
 <br>
 
