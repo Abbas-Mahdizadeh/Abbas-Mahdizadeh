@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=200&section=header&text=Abbas%20Mahdizadeh&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20" width="100%" />
 
+<br>
+
 <img src="./logo.png" width="300" alt="Abbas Mahdizadeh - Frontend Developer" />
 
 <br>
