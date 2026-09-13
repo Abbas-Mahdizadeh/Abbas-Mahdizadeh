@@ -5,11 +5,11 @@
 <br><br>
 
 <div>
-  <font size="6"><b>Abbas Mahdizadeh</b></font>
+  <font size="9"><b>Abbas Mahdizadeh</b></font>
 </div>
 
 <div>
-  <font size="5"><b>Frontend Developer</b></font>
+  <font size="6"><b>Frontend Developer</b></font>
 </div>
 
 <br>
