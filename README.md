@@ -4,8 +4,7 @@
 
 <br><br>
 
-<h1>Abbas Mahdizadeh</h1>
-
+<h3>Abbas Mahdizadeh</h3>
 <h3>Frontend Developer</h3>
 
 <br>
